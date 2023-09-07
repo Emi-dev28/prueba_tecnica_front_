@@ -1,0 +1,28 @@
+header {
+    width: 100%;
+   
+
+}
+.form {
+    width:45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+input{
+    width:100%;
+    border-radius: 0.5rem;
+    padding: 5px;
+    text-align: start;
+}
+.search-box {
+    display: flex;
+    flex-direction: row;
+    width:auto;
+    gap: 1rem;
+    text-align: start;
+
+}
+
